@@ -34,3 +34,4 @@ f.addEventListener('submit',function(ev){
 });
 f.addEventListener('input',function(e){if(e.target.hasAttribute('aria-invalid'))check();});
 })();
+document.head.appendChild(Object.assign(document.createElement('script'),{src:'assets/js/arabic.js',defer:true}));
