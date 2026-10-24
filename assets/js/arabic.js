@@ -4,6 +4,7 @@
 'use strict';
 if(window.__taliaAr)return;window.__taliaAr=1;
 var AR={
+"Try the POS demo":"جرّب العرض التجريبي لنقاط البيع",
  "Skip to content": "تخطَّ إلى المحتوى",
  "Menu": "القائمة",
  "Home": "الرئيسية",
