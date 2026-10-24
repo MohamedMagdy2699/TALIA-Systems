@@ -4,7 +4,6 @@
 'use strict';
 if(window.__taliaAr)return;window.__taliaAr=1;
 var AR={
-"Try the POS demo":"جرّب العرض التجريبي لنقاط البيع",
  "Skip to content": "تخطَّ إلى المحتوى",
  "Menu": "القائمة",
  "Home": "الرئيسية",
@@ -128,6 +127,7 @@ var AR={
  "Point-of-sale setups for retail and service counters.": "حلول نقاط البيع لمتاجر التجزئة ومنافذ الخدمة.",
  "We set up POS software with the hardware around it: receipt printers, barcode scanners, cash drawers and tablets or terminals, plus the network and backups that keep sales running.": "نُعدّ برنامج نقطة البيع مع الأجهزة المحيطة به: طابعات الإيصالات وقارئات الباركود وأدراج النقد والأجهزة اللوحية أو الطرفيات، إضافةً إلى الشبكة والنسخ الاحتياطية التي تُبقي المبيعات مستمرة.",
  "POS software and hardware setup": "إعداد برنامج وأجهزة نقاط البيع",
+ "Try the POS demo":"جرّب العرض التجريبي لنقاط البيع",
  "Product, price and user configuration": "ضبط المنتجات والأسعار والمستخدمين",
  "Training and support": "التدريب والدعم",
  "Open-source solutions": "حلول المصدر المفتوح",
